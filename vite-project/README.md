@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a Website template I created to better my coding and website building skills. This website is built using Javascript, React, HTML, CSS, and Tailwind.
+This is a Website template I created to better my coding and website building skills. This website is built using Javascript, Vite, React, HTML, CSS, and Tailwind.
 
 # How to run
 
